@@ -1,0 +1,1010 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "type": "array",
+    "items": [
+      {
+        "type": "object",
+        "properties": {
+          "stock": {
+            "type": "integer"
+          },
+          "name": {
+            "type": "string"
+          },
+          "category": {
+            "type": "string"
+          },
+          "cost": {
+            "type": "integer"
+          },
+          "rating": {
+            "type": "integer"
+          },
+          "image": {
+            "type": "string"
+          },
+          "sizeChartType": {
+            "type": "string"
+          },
+          "sizes": {
+            "type": "array",
+            "items": {}
+          },
+          "_id": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "stock",
+          "name",
+          "category",
+          "cost",
+          "rating",
+          "image",
+          "sizeChartType",
+          "sizes",
+          "_id"
+        ]
+      },
+      {
+        "type": "object",
+        "properties": {
+          "stock": {
+            "type": "integer"
+          },
+          "name": {
+            "type": "string"
+          },
+          "category": {
+            "type": "string"
+          },
+          "cost": {
+            "type": "integer"
+          },
+          "rating": {
+            "type": "integer"
+          },
+          "image": {
+            "type": "string"
+          },
+          "sizeChartType": {
+            "type": "string"
+          },
+          "sizes": {
+            "type": "array",
+            "items": {}
+          },
+          "_id": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "stock",
+          "name",
+          "category",
+          "cost",
+          "rating",
+          "image",
+          "sizeChartType",
+          "sizes",
+          "_id"
+        ]
+      },
+      {
+        "type": "object",
+        "properties": {
+          "stock": {
+            "type": "integer"
+          },
+          "name": {
+            "type": "string"
+          },
+          "category": {
+            "type": "string"
+          },
+          "cost": {
+            "type": "integer"
+          },
+          "rating": {
+            "type": "integer"
+          },
+          "image": {
+            "type": "string"
+          },
+          "sizeChartType": {
+            "type": "string"
+          },
+          "sizes": {
+            "type": "array",
+            "items": {}
+          },
+          "_id": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "stock",
+          "name",
+          "category",
+          "cost",
+          "rating",
+          "image",
+          "sizeChartType",
+          "sizes",
+          "_id"
+        ]
+      },
+      {
+        "type": "object",
+        "properties": {
+          "stock": {
+            "type": "integer"
+          },
+          "name": {
+            "type": "string"
+          },
+          "category": {
+            "type": "string"
+          },
+          "cost": {
+            "type": "integer"
+          },
+          "rating": {
+            "type": "integer"
+          },
+          "image": {
+            "type": "string"
+          },
+          "sizeChartType": {
+            "type": "string"
+          },
+          "sizes": {
+            "type": "array",
+            "items": [
+              {
+                "type": "integer"
+              },
+              {
+                "type": "integer"
+              },
+              {
+                "type": "integer"
+              },
+              {
+                "type": "integer"
+              },
+              {
+                "type": "integer"
+              }
+            ]
+          },
+          "_id": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "stock",
+          "name",
+          "category",
+          "cost",
+          "rating",
+          "image",
+          "sizeChartType",
+          "sizes",
+          "_id"
+        ]
+      },
+      {
+        "type": "object",
+        "properties": {
+          "stock": {
+            "type": "integer"
+          },
+          "name": {
+            "type": "string"
+          },
+          "category": {
+            "type": "string"
+          },
+          "cost": {
+            "type": "integer"
+          },
+          "rating": {
+            "type": "integer"
+          },
+          "image": {
+            "type": "string"
+          },
+          "sizeChartType": {
+            "type": "string"
+          },
+          "sizes": {
+            "type": "array",
+            "items": [
+              {
+                "type": "integer"
+              },
+              {
+                "type": "integer"
+              },
+              {
+                "type": "integer"
+              },
+              {
+                "type": "integer"
+              },
+              {
+                "type": "integer"
+              }
+            ]
+          },
+          "_id": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "stock",
+          "name",
+          "category",
+          "cost",
+          "rating",
+          "image",
+          "sizeChartType",
+          "sizes",
+          "_id"
+        ]
+      },
+      {
+        "type": "object",
+        "properties": {
+          "stock": {
+            "type": "integer"
+          },
+          "name": {
+            "type": "string"
+          },
+          "category": {
+            "type": "string"
+          },
+          "cost": {
+            "type": "integer"
+          },
+          "rating": {
+            "type": "integer"
+          },
+          "image": {
+            "type": "string"
+          },
+          "sizeChartType": {
+            "type": "string"
+          },
+          "sizes": {
+            "type": "array",
+            "items": {}
+          },
+          "_id": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "stock",
+          "name",
+          "category",
+          "cost",
+          "rating",
+          "image",
+          "sizeChartType",
+          "sizes",
+          "_id"
+        ]
+      },
+      {
+        "type": "object",
+        "properties": {
+          "stock": {
+            "type": "integer"
+          },
+          "name": {
+            "type": "string"
+          },
+          "category": {
+            "type": "string"
+          },
+          "cost": {
+            "type": "integer"
+          },
+          "rating": {
+            "type": "integer"
+          },
+          "image": {
+            "type": "string"
+          },
+          "sizeChartType": {
+            "type": "string"
+          },
+          "sizes": {
+            "type": "array",
+            "items": {}
+          },
+          "_id": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "stock",
+          "name",
+          "category",
+          "cost",
+          "rating",
+          "image",
+          "sizeChartType",
+          "sizes",
+          "_id"
+        ]
+      },
+      {
+        "type": "object",
+        "properties": {
+          "stock": {
+            "type": "integer"
+          },
+          "name": {
+            "type": "string"
+          },
+          "category": {
+            "type": "string"
+          },
+          "cost": {
+            "type": "integer"
+          },
+          "rating": {
+            "type": "integer"
+          },
+          "image": {
+            "type": "string"
+          },
+          "sizeChartType": {
+            "type": "string"
+          },
+          "sizes": {
+            "type": "array",
+            "items": {}
+          },
+          "_id": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "stock",
+          "name",
+          "category",
+          "cost",
+          "rating",
+          "image",
+          "sizeChartType",
+          "sizes",
+          "_id"
+        ]
+      },
+      {
+        "type": "object",
+        "properties": {
+          "stock": {
+            "type": "integer"
+          },
+          "name": {
+            "type": "string"
+          },
+          "category": {
+            "type": "string"
+          },
+          "cost": {
+            "type": "integer"
+          },
+          "rating": {
+            "type": "integer"
+          },
+          "image": {
+            "type": "string"
+          },
+          "sizeChartType": {
+            "type": "string"
+          },
+          "sizes": {
+            "type": "array",
+            "items": {}
+          },
+          "_id": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "stock",
+          "name",
+          "category",
+          "cost",
+          "rating",
+          "image",
+          "sizeChartType",
+          "sizes",
+          "_id"
+        ]
+      },
+      {
+        "type": "object",
+        "properties": {
+          "stock": {
+            "type": "integer"
+          },
+          "name": {
+            "type": "string"
+          },
+          "category": {
+            "type": "string"
+          },
+          "cost": {
+            "type": "integer"
+          },
+          "rating": {
+            "type": "integer"
+          },
+          "image": {
+            "type": "string"
+          },
+          "sizeChartType": {
+            "type": "string"
+          },
+          "sizes": {
+            "type": "array",
+            "items": {}
+          },
+          "_id": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "stock",
+          "name",
+          "category",
+          "cost",
+          "rating",
+          "image",
+          "sizeChartType",
+          "sizes",
+          "_id"
+        ]
+      },
+      {
+        "type": "object",
+        "properties": {
+          "stock": {
+            "type": "integer"
+          },
+          "name": {
+            "type": "string"
+          },
+          "category": {
+            "type": "string"
+          },
+          "cost": {
+            "type": "integer"
+          },
+          "rating": {
+            "type": "integer"
+          },
+          "image": {
+            "type": "string"
+          },
+          "sizeChartType": {
+            "type": "string"
+          },
+          "sizes": {
+            "type": "array",
+            "items": {}
+          },
+          "_id": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "stock",
+          "name",
+          "category",
+          "cost",
+          "rating",
+          "image",
+          "sizeChartType",
+          "sizes",
+          "_id"
+        ]
+      },
+      {
+        "type": "object",
+        "properties": {
+          "stock": {
+            "type": "integer"
+          },
+          "name": {
+            "type": "string"
+          },
+          "category": {
+            "type": "string"
+          },
+          "cost": {
+            "type": "integer"
+          },
+          "rating": {
+            "type": "integer"
+          },
+          "image": {
+            "type": "string"
+          },
+          "sizeChartType": {
+            "type": "string"
+          },
+          "sizes": {
+            "type": "array",
+            "items": {}
+          },
+          "_id": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "stock",
+          "name",
+          "category",
+          "cost",
+          "rating",
+          "image",
+          "sizeChartType",
+          "sizes",
+          "_id"
+        ]
+      },
+      {
+        "type": "object",
+        "properties": {
+          "stock": {
+            "type": "integer"
+          },
+          "name": {
+            "type": "string"
+          },
+          "category": {
+            "type": "string"
+          },
+          "cost": {
+            "type": "integer"
+          },
+          "rating": {
+            "type": "integer"
+          },
+          "image": {
+            "type": "string"
+          },
+          "sizeChartType": {
+            "type": "string"
+          },
+          "sizes": {
+            "type": "array",
+            "items": [
+              {
+                "type": "integer"
+              },
+              {
+                "type": "integer"
+              },
+              {
+                "type": "integer"
+              },
+              {
+                "type": "integer"
+              },
+              {
+                "type": "integer"
+              }
+            ]
+          },
+          "_id": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "stock",
+          "name",
+          "category",
+          "cost",
+          "rating",
+          "image",
+          "sizeChartType",
+          "sizes",
+          "_id"
+        ]
+      },
+      {
+        "type": "object",
+        "properties": {
+          "stock": {
+            "type": "integer"
+          },
+          "name": {
+            "type": "string"
+          },
+          "category": {
+            "type": "string"
+          },
+          "cost": {
+            "type": "integer"
+          },
+          "rating": {
+            "type": "integer"
+          },
+          "image": {
+            "type": "string"
+          },
+          "sizeChartType": {
+            "type": "string"
+          },
+          "sizes": {
+            "type": "array",
+            "items": [
+              {
+                "type": "integer"
+              },
+              {
+                "type": "integer"
+              },
+              {
+                "type": "integer"
+              },
+              {
+                "type": "integer"
+              },
+              {
+                "type": "integer"
+              }
+            ]
+          },
+          "_id": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "stock",
+          "name",
+          "category",
+          "cost",
+          "rating",
+          "image",
+          "sizeChartType",
+          "sizes",
+          "_id"
+        ]
+      },
+      {
+        "type": "object",
+        "properties": {
+          "stock": {
+            "type": "integer"
+          },
+          "name": {
+            "type": "string"
+          },
+          "category": {
+            "type": "string"
+          },
+          "cost": {
+            "type": "integer"
+          },
+          "rating": {
+            "type": "integer"
+          },
+          "image": {
+            "type": "string"
+          },
+          "sizeChartType": {
+            "type": "string"
+          },
+          "sizes": {
+            "type": "array",
+            "items": {}
+          },
+          "_id": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "stock",
+          "name",
+          "category",
+          "cost",
+          "rating",
+          "image",
+          "sizeChartType",
+          "sizes",
+          "_id"
+        ]
+      },
+      {
+        "type": "object",
+        "properties": {
+          "stock": {
+            "type": "integer"
+          },
+          "name": {
+            "type": "string"
+          },
+          "category": {
+            "type": "string"
+          },
+          "cost": {
+            "type": "integer"
+          },
+          "rating": {
+            "type": "integer"
+          },
+          "image": {
+            "type": "string"
+          },
+          "sizeChartType": {
+            "type": "string"
+          },
+          "sizes": {
+            "type": "array",
+            "items": {}
+          },
+          "_id": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "stock",
+          "name",
+          "category",
+          "cost",
+          "rating",
+          "image",
+          "sizeChartType",
+          "sizes",
+          "_id"
+        ]
+      },
+      {
+        "type": "object",
+        "properties": {
+          "stock": {
+            "type": "integer"
+          },
+          "name": {
+            "type": "string"
+          },
+          "category": {
+            "type": "string"
+          },
+          "cost": {
+            "type": "integer"
+          },
+          "rating": {
+            "type": "integer"
+          },
+          "image": {
+            "type": "string"
+          },
+          "sizeChartType": {
+            "type": "string"
+          },
+          "sizes": {
+            "type": "array",
+            "items": {}
+          },
+          "_id": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "stock",
+          "name",
+          "category",
+          "cost",
+          "rating",
+          "image",
+          "sizeChartType",
+          "sizes",
+          "_id"
+        ]
+      },
+      {
+        "type": "object",
+        "properties": {
+          "stock": {
+            "type": "integer"
+          },
+          "name": {
+            "type": "string"
+          },
+          "category": {
+            "type": "string"
+          },
+          "cost": {
+            "type": "integer"
+          },
+          "rating": {
+            "type": "integer"
+          },
+          "image": {
+            "type": "string"
+          },
+          "sizeChartType": {
+            "type": "string"
+          },
+          "sizes": {
+            "type": "array",
+            "items": {}
+          },
+          "_id": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "stock",
+          "name",
+          "category",
+          "cost",
+          "rating",
+          "image",
+          "sizeChartType",
+          "sizes",
+          "_id"
+        ]
+      },
+      {
+        "type": "object",
+        "properties": {
+          "stock": {
+            "type": "integer"
+          },
+          "name": {
+            "type": "string"
+          },
+          "category": {
+            "type": "string"
+          },
+          "cost": {
+            "type": "integer"
+          },
+          "rating": {
+            "type": "integer"
+          },
+          "image": {
+            "type": "string"
+          },
+          "sizeChartType": {
+            "type": "string"
+          },
+          "sizes": {
+            "type": "array",
+            "items": {}
+          },
+          "_id": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "stock",
+          "name",
+          "category",
+          "cost",
+          "rating",
+          "image",
+          "sizeChartType",
+          "sizes",
+          "_id"
+        ]
+      },
+      {
+        "type": "object",
+        "properties": {
+          "stock": {
+            "type": "integer"
+          },
+          "name": {
+            "type": "string"
+          },
+          "category": {
+            "type": "string"
+          },
+          "cost": {
+            "type": "integer"
+          },
+          "rating": {
+            "type": "integer"
+          },
+          "image": {
+            "type": "string"
+          },
+          "sizeChartType": {
+            "type": "string"
+          },
+          "sizes": {
+            "type": "array",
+            "items": {}
+          },
+          "_id": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "stock",
+          "name",
+          "category",
+          "cost",
+          "rating",
+          "image",
+          "sizeChartType",
+          "sizes",
+          "_id"
+        ]
+      },
+      {
+        "type": "object",
+        "properties": {
+          "stock": {
+            "type": "integer"
+          },
+          "name": {
+            "type": "string"
+          },
+          "category": {
+            "type": "string"
+          },
+          "cost": {
+            "type": "integer"
+          },
+          "rating": {
+            "type": "integer"
+          },
+          "image": {
+            "type": "string"
+          },
+          "sizeChartType": {
+            "type": "string"
+          },
+          "sizes": {
+            "type": "array",
+            "items": [
+              {
+                "type": "integer"
+              },
+              {
+                "type": "integer"
+              },
+              {
+                "type": "integer"
+              },
+              {
+                "type": "integer"
+              },
+              {
+                "type": "integer"
+              }
+            ]
+          },
+          "_id": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "stock",
+          "name",
+          "category",
+          "cost",
+          "rating",
+          "image",
+          "sizeChartType",
+          "sizes",
+          "_id"
+        ]
+      }
+    ]
+  }
